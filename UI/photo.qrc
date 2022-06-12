@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="主界面">
+    <file>pic/00.jpg</file>
+    <file>pic/03.jpg</file>
+    <file>pic/02.jpg</file>
+    <file>pic/01.jpg</file>
+  </qresource>
+</RCC>

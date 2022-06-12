@@ -1,0 +1,1 @@
+ pyinstaller -F -i 图标.ico main.py -p 背景.py -p 变换.py -p 关于.py -p 摄像.py -p 主界面.py -w
