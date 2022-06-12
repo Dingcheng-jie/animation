@@ -1,6 +1,9 @@
 1、创建环境：
+
 conda create -n animeganv2 python=3.6.5
+
 conda create cudatoolkit=10.0
+
 conda create cudnn=7.6
 2、安装需求库：
 pip install tensorflow-gpu=1.15.0
